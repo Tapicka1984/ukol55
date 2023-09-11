@@ -1,0 +1,10 @@
+G:\MaturitaOpak\MaturitaOpak\bin\Debug\MaturitaOpak.exe.config
+G:\MaturitaOpak\MaturitaOpak\bin\Debug\MaturitaOpak.exe
+G:\MaturitaOpak\MaturitaOpak\bin\Debug\MaturitaOpak.pdb
+G:\MaturitaOpak\MaturitaOpak\obj\Debug\MaturitaOpak.csprojAssemblyReference.cache
+G:\MaturitaOpak\MaturitaOpak\obj\Debug\MaturitaOpak.Form1.resources
+G:\MaturitaOpak\MaturitaOpak\obj\Debug\MaturitaOpak.Properties.Resources.resources
+G:\MaturitaOpak\MaturitaOpak\obj\Debug\MaturitaOpak.csproj.GenerateResource.cache
+G:\MaturitaOpak\MaturitaOpak\obj\Debug\MaturitaOpak.csproj.CoreCompileInputs.cache
+G:\MaturitaOpak\MaturitaOpak\obj\Debug\MaturitaOpak.exe
+G:\MaturitaOpak\MaturitaOpak\obj\Debug\MaturitaOpak.pdb
